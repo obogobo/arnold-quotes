@@ -1,5 +1,26 @@
 [
-  "Get to the Choppah",
-  "I'll be back",
-  "It's showtime"
+  {
+    "quote": "Get to the Choppah",
+    "workType": "film",
+    "work": "Predator",
+    "character": "Major Alan \"Dutch\" Schaefer",
+    "clip": "https://www.youtube.com/watch?v=Xs_OacEq2Sk",
+    "year": 1989
+  },
+  {
+    "quote": "I'll be back",
+    "workType": "film",
+    "work": "The Terminator",
+    "character": "T-800 Model 101",
+    "clip": "https://www.youtube.com/watch?v=XY9jQq7U85c",
+    "year": 1984
+  },
+  {
+    "quote": "It's showtime",
+    "workType": "film",
+    "work": "The Running Man",
+    "characterName": "Ben Richards",
+    "clip": "https://www.youtube.com/watch?v=TKTL2EDTFSo",
+    "year": 1987
+  }
 ]
